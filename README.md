@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 -->
 
 ```TypeScript
-$ echo 'Welcome my friend'
+console.log('Welcome to the Matrix');
 
  ..''''.             ...''''''''''''''...    @Santos-02
 .;;,.',;'.          .,;,''''.........'',,..   -----------
 .;:.   .,:.        .,;,..               .';,.  Uptime: "24 years"
 .,:'. ..,:.       .,:,.                   .',,. Position: "Teresópolis, Rio de Janeiro, Brasil"
  .',,,,,;;,.       ':'.    ..               .',,. Languages: ["JavaScript", "TypeScript", "Java", "C++", "Dart"]
-    ......,;,.    .';'    ..,,'.              .',,. Frameworks: ["React", "Node", "Nest", "Flutter", "Spring", "Bootstrap", "JUCE"]
-           .,;,.   ...      ..,,..              .','. Databases: ["PostgreSQL", "MySQL"]
-             .,;'.            ..,,'.              ..,,. Editor: ["VSCode", "Eclipse"]
-               .,;'.            ..,,....            ..,,. OS: ["Windows", "Linux"]
-                 .';'.            ..,,,,,,',,,,,'.    .','. Hobbies: ["Music", "Books"]
-                   .,;,.             ...........','.    .',,. 
+    ......,;,.    .';'    ..,,'.              .',,. Backend & Software: ["Node", "Nest", "Spring", "JUCE"]
+           .,;,.   ...      ..,,..              .','. Frontend & Mobile: ["Bootstrap", "React", "React Native, "Flutter"]
+             .,;'.            ..,,'.              ..,,. Databases: ["PostgreSQL", "MySQL"]
+               .,;'.            ..,,....            ..,,. Editor: ["VSCode", "Eclipse"]
+                 .';'.            ..,,,,,,',,,,,'.    .','. OS: ["Windows", "Linux"]
+                   .,;,.             ...........','.    .',,. Hobbies: ["Music", "Books"]
                      .';'.                       .',,.    ..,,.. 
                        .','.                       .',,.    ..,,..
               ..         .','.                       .',,.    ..,,..
@@ -55,7 +55,7 @@ $ echo 'Welcome my friend'
 *"Reality is that which, when you stop believing in it, doesn't go away."*
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=java,cpp,ts,js,dart,react,flutter,nodejs,nestjs,spring,bootstrap,postgres,mysql)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,ts,js,dart,react,flutter,nodejs,nestjs,spring,postgres,mysql)
 
 
 ### You can find in me in the web 🌍
